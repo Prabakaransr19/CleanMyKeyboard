@@ -4,7 +4,7 @@
 
 **Lock your keyboard & mouse in one click — clean safely, unlock instantly.**
 
-[![Download](https://img.shields.io/badge/⬇️%20Download%20for%20Windows-v1.1-e94560?style=for-the-badge)](https://github.com/Prabakaransr19/CleanMyKeyboard/releases/latest)
+[![Download](https://img.shields.io/badge/⬇️%20Download%20for%20Windows-v1.1-e94560?style=for-the-badge)](https://github.com/Prabakaransr19/CleanMyKeyboard/releases/download/v1.1/CleanMyKeyboard-Winv1.exe)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
@@ -29,7 +29,7 @@ Ever accidentally opened 10 browser tabs while trying to wipe your keyboard? **C
 
 <div align="center">
 
-[![Download Latest Release](https://img.shields.io/badge/⬇️%20Download%20CleanMyKeyboard.exe-v1.1%20for%20Windows-e94560?style=for-the-badge&logoColor=white)](https://github.com/Prabakaransr19/CleanMyKeyboard/releases/latest)
+[![Download Latest Release](https://img.shields.io/badge/⬇️%20Download%20CleanMyKeyboard.exe-v1.1%20for%20Windows-e94560?style=for-the-badge&logoColor=white)](https://github.com/Prabakaransr19/CleanMyKeyboard/releases/download/v1.1/CleanMyKeyboard-Winv1.exe)
 
 > No installation needed. Just download and run.
 
